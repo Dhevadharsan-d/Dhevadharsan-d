@@ -3,9 +3,9 @@
 
 I'm a Computer Science student passionate about creating practical AI + IoT solutions. I enjoy working on systems that don't just sit in code editors but actually interact with environments — especially in domains like smart monitoring and automation.
 
-- 🔭 Currently working on: **AI-based forecasting of fish behavioral patterns in Biofloc aquaculture systems**
-- 🌱 Exploring: Advanced Machine Learning, System Design, and Real-time Data Processing
-- 💡 Interests: AI, Machine Learning, IoT, Computer Vision
+- 🔭 Currently working on: **Smart AI based Multi-site Water Quality Prediction System**
+- 🌱 Exploring: Advanced Machine Learning, System Design and Real-time Data Processing
+- 💡 Interests: AI, Machine Learning, IoT, Computer Vision, Web Development
 - 🎯 Goal: To build scalable intelligent systems that solve real-world problems
 
 ---
@@ -34,18 +34,11 @@ I'm a Computer Science student passionate about creating practical AI + IoT solu
 ## 🚀 Projects
 
 ### 🐟 Smart Aquaculture Monitoring & Surveillance System
-An intelligent system that monitors aquaculture environments using IoT sensors and ML models.
-- Real-time data collection via ESP32 and sensors
-- Cloud communication using REST APIs (Flask/Firebase)
+An intelligent system that monitors aquaculture environments using  ML models.
+- Real-time data collection via real world APIs 
+- Application of LSTM models on collected historical data
+- Prediction of water quality parameters given any specific date and time
 - Behavioral monitoring for aquatic life
-
----
-
-### 🤖 AI-Based Fish Behavior Forecasting (Ongoing)
-A group project focused on predicting fish behavioral patterns in Biofloc systems.
-- Uses ML models for pattern recognition
-- Dataset annotation using Roboflow
-- Multi-class detection (tortoise, cormorant, egret, heron, snake)
 
 ---
 
