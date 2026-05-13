@@ -19,9 +19,7 @@ I'm a Computer Science student passionate about creating practical AI + IoT solu
 ### ⚙️ Tools & Technologies
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🌐 Domains
 - Machine Learning
